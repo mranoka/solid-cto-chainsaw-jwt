@@ -1,0 +1,57 @@
+#todo-body {
+  background-color: hsl(240, 20%, 75%);
+  width: 45%;
+  margin-left: 20px;
+  padding-left: 7px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  
+}
+
+#items-container {
+  min-height: 150px;
+}
+
+#todo-heading {
+  text-decoration: underline;
+  font-weight: 900;
+  font-size: 55px;
+}
+
+.item-button {
+  background-color: hsl(12, 100%, 50%);
+  color: white;
+  border-radius: 10px;
+}
+.item-button:hover {
+  background-color: hsl(12, 100%, 50%);
+  color: white;
+  border-radius: 10px;
+  border: 5px solid green;
+}
+
+.list-item {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+#list-items {
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
+
+#logout-boton {
+  margin-left: 132px;
+  font-weight: 900;
+}
+#boton-login {
+  margin-top: 20px;
+  font-weight: 900;
+}
+
+#pass-input, #use-input {
+  margin-top: 20px;
+}
+#landin-container {
+  background-color: rgb(224, 224, 235);
+}
